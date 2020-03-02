@@ -79,7 +79,6 @@ int main()
     CreateLinklist_Tail(L, 5);
     Insert(L, 5, 6);
     cout << Delete(L, 5) << endl;
-    MergeSort(L);
     printLinklist(L);
     system("pause");
     return 0;
