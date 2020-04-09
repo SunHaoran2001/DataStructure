@@ -195,5 +195,7 @@ int main()
     GraphAdjList G;
     CreateALGraph(&G);
     DFSTraverse(&G);
+    cout << endl;
+    BFSTraverse(&G);
     return 0;
 }
