@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "ctime": "cpp",
+        "iostream": "cpp",
+        "string": "cpp"
+    },
+    "cSpell.words": [
+        "Inserton",
+        "binaryio",
+        "switchs",
+        "vexs"
+    ],
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4, //vscode设置的缩进量
+    "editor.formatOnType": true, //是否在键入后自动设置行样式
+    "editor.formatOnSave": true, //保存时候自动格式化
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true
+}
